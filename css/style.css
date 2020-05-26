@@ -23,7 +23,16 @@ img {
 }
 
 .parallax-container {
-    height: 800px;
+    height: 1500px;
+}
+
+.parallax-login {
+    height: 600px;
+}
+
+.container-parallax {
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .container-contact {
